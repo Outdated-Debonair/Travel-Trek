@@ -1,0 +1,15 @@
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    font-size: 5rem;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 3%;
+}
+.card {
+    text-align: center;
+}
+body {
+    background-color: black;
+}

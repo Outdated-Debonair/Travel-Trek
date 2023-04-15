@@ -1,0 +1,48 @@
+body {
+    margin-top: 2%;
+    margin-left: 3.2%;
+    margin-right: 3.2%;
+    background-color: #000000;
+}
+.card img {
+    height: 400px;
+}
+.card h3 {
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    font-size: 4.7rem;;
+}
+.heading-2 {
+    text-align: center;
+    color: #374a37;
+    font-size: 3.5rem;
+}
+.card {
+    text-align: center;
+}
+.row h2 {
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.row p {
+    font-size: 1rem;
+}
+.row p {
+    color: black;
+}
+p {
+    text-align: center;
+    font-size: 1.3rem;
+    color: white;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding: 3%;
+}
